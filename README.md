@@ -1,3 +1,6 @@
-**Data Filtering:** The dataset was filtered to isolate records specifically related to the Sports and Shooter genres to align with the business problem.
-**Handling Missing Values (Nulls):** Records with missing Global_Sales data were removed or handled to ensure accurate sales aggregations. Records lacking a Critic_Score were identified and excluded from the average score calculations to prevent skewed results.
-**Data Type Standardization:** Ensured that sales columns were properly formatted as numeric (float/decimal) data types rather than text to allow for mathematical aggregation in later steps.
+**Dataset Name**: Video Games Sales as at 22 Dec 2016
+**File Format:** .csv
+
+**Data Retrieval Instructions:**
+To comply with data archiving best practices, the massive raw dataset used for this analysis has not been uploaded directly to this repository.
+To replicate or extend this IT: Business Analysis project, future analysts can retrieve the exact dataset from the New Brunswick Community College (NBCC) course portal (under the Module 1 assignment resources) or by searching for the "Video Game Sales" dataset on Kaggle.com.
