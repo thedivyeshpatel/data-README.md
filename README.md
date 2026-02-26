@@ -1,2 +1,3 @@
-# data-README.md
-An analysis of Global Sales and Critic Scores for Sports and Shooter video games using Hive and Excel.
+**Data Filtering:** The dataset was filtered to isolate records specifically related to the Sports and Shooter genres to align with the business problem.
+**Handling Missing Values (Nulls):** Records with missing Global_Sales data were removed or handled to ensure accurate sales aggregations. Records lacking a Critic_Score were identified and excluded from the average score calculations to prevent skewed results.
+**Data Type Standardization:** Ensured that sales columns were properly formatted as numeric (float/decimal) data types rather than text to allow for mathematical aggregation in later steps.
